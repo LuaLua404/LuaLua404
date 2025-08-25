@@ -1,5 +1,5 @@
 ## Olá 👋
-Meu nome é Luan Verly, sou um Programador em aprendizado,cursando faculdade de Ciência  da Computação,apaixonado por tecnologia focado em fazer projetos e desenvolver soluções.
+Meu nome é Luan Verly, sou um Programador em aprendizado, cursando faculdade de Ciência  da Computação,apaixonado por tecnologia focado em fazer projetos e desenvolver soluções.
 <br>
 <br>
 Faço projetos utilizando:
